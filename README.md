@@ -7,7 +7,7 @@ Frontend Developer
 I have a passion of developing scabable, responsive and user-friendly web applications
 
 * 🌍  I'm based in Uganda
-* 🖥️  See my portfolio at [myPortfolio](https://portfolio-p7js-2aza4fpol-bridgets-projects-cc59a102.vercel.app)
+* 🖥️  See my portfolio at [myPortfolio](https://portfolio-p7js.vercel.app/)
 * ✉️  You can contact me at [namugga.bridgetk@gmail.com](mailto:namugga.bridgetk@gmail.com)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on any frontend project

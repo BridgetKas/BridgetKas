@@ -103,9 +103,6 @@ Software Developer
 
 
 
-### 📈 GitHub Stats
-
-![BridgetKas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BridgetKas&show_icons=true&bg_color=1c1917&title_color=ffffff&text_color=ffffff&icon_color=0891b2&border_radius=10)
 
 
 

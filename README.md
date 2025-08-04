@@ -104,18 +104,13 @@ Software Developer
 
 
 ### 📈 GitHub Stats
-<a href="https://github.com/BridgetKas" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=BridgetKas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
-    alt="GitHub Commits Graph"
-    style="max-width: 100%; height: auto;"
-  />
-</a>
+
+![BridgetKas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BridgetKas&show_icons=true&bg_color=1c1917&title_color=ffffff&text_color=ffffff&icon_color=0891b2&border_radius=10)
 
 
 
 ### 🧩 Most Used Languages
-<a href="https://github.com/BridgetKas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BridgetKas&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BridgetKas&layout=compact&bg_color=1c1917&title_color=ffffff&text_color=ffffff&border_radius=20)
 
 
 

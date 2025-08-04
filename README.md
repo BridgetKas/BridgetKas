@@ -10,7 +10,7 @@ Software Developer
 - 💻 I recently transitioned into tech and I'm a **self-taught Frontend Developer**.
 - 🚀 I'm currently focused on building responsive web applications using **React** and **Tailwind CSS**.
 - 🎯 My goal is to master **full-stack development**, starting with backend technologies.
-- 🌱 Currently learning: **Node.js**, **Express**, and **MongoDB**.
+- 🌱 Currently learning: **Node.js**, **Express**,**Python** and **MongoDB**.
 
 
 

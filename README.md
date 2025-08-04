@@ -1,35 +1,146 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bridget Kas
 ===================================================================================================================================
 
-Frontend Developer
+Software Developer
 ------------------
 
-I have a passion of developing scabable, responsive and user-friendly web applications
+### 👩‍💻 About Me
 
-* 🌍  I'm based in Uganda
-* 🖥️  See my portfolio at [myPortfolio](https://portfolio-p7js.vercel.app/)
-* ✉️  You can contact me at [namugga.bridgetk@gmail.com](mailto:namugga.bridgetk@gmail.com)
-* 🧠  I'm learning NextJs
-* 🤝  I'm open to collaborating on any frontend project
+- 🎓 I have a background in **Biomedical Engineering**.
+- 💻 I recently transitioned into tech and I'm a **self-taught Frontend Developer**.
+- 🚀 I'm currently focused on building responsive web applications using **React** and **Tailwind CSS**.
+- 🎯 My goal is to master **full-stack development**, starting with backend technologies.
+- 🌱 Currently learning: **Node.js**, **Express**, and **MongoDB**.
 
-### Skills
+---
 
+### 🧠 Technical Skills
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nextjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/NextJs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-</p>
+<table>
+  <thead>
+    <tr>
+      <th>Front End</th>
+      <th>Back End & DBMS</th>
+      <th>Language</th>
+      <th>Cloud Platforms</th>
+      <th>Other Skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+        <br />HTML
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+        <br />Node.js
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+        <br />JavaScript
+      </td>
+      <td align="center">
+        –
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+        <br />Git
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+        <br />CSS
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+        <br />Express.js
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+        <br />TypeScript
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+        <br />Firebase
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+        <br />GitHub
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+        <br />React.js
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+        <br />MongoDB
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+        <br />Python
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" />
+        <br />Vercel
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+        <br />Figma
+      </td>
+    </tr>
+  </tbody>
+</table>
 
+---
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/BridgetKas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/bridget-namugga-3a1b02166" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/namugga.bridgetk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 📈 GitHub Stats
+<a href="https://github.com/BridgetKas" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=BridgetKas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
+    alt="GitHub Commits Graph"
+    style="max-width: 100%; height: auto;"
+  />
+</a>
 
+---
 
-
-<a href="http://www.github.com/BridgetKas"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=BridgetKas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+### 🧩 Most Used Languages
 <a href="https://github.com/BridgetKas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BridgetKas&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+---
+
+### 🌟 Featured Projects
+
+-  **Productivity App**  
+  A productivity tracker that uses charts to visualize daily accomplishments. Built with React, Tailwind, and Chart.js.
+
+-  **HouseChores App**  
+  A fullstack app that enables people to assign housechores to their family members.
+
+-  **Authentication App**  
+  Secure login/logout system using JWT with React and backend integration.
+
+---
+
+### 📫 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/bridget-namugga-3a1b02166/
+- 🌐 Portfolio: https://portfolio-p7js.vercel.app/
+- 📩 Email: namugga.bridgetk@gmail.com
+
+
+
+
+
+
+

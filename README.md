@@ -7,7 +7,7 @@ Software Developer
 ### 👩‍💻 About Me
 
 - 🎓 I have a background in **Biomedical Engineering**.
-- 💻 I recently transitioned into tech and I'm a **self-taught Frontend Developer**.
+- 💻 I recently transitioned into tech and I'm a **self-taught developer**.
 - 🚀 I'm currently focused on building responsive web applications using **React** and **Tailwind CSS**.
 - 🎯 My goal is to master **full-stack development**, starting with backend technologies.
 - 🌱 Currently learning: **Node.js**, **Express**,**Python** and **MongoDB**.

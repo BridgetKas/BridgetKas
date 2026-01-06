@@ -128,7 +128,7 @@ Software Developer
 
 - 💼 LinkedIn: https://www.linkedin.com/in/bridget-namugga-3a1b02166/
 - 🌐 Portfolio: https://portfolio-p7js.vercel.app/
-- 📩 Email: namugga.bridgetk@gmail.com
+- 📩 Email: bridgetnamugga@gmail.com
 
 
 

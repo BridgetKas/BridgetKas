@@ -22,7 +22,6 @@ Software Developer
       <th>Front End</th>
       <th>Back End & DBMS</th>
       <th>Languages</th>
-      <th>Mobile</th>
       <th>Cloud Platforms</th>
       <th>Other Skills</th>
     </tr>

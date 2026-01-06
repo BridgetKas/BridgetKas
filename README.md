@@ -10,7 +10,7 @@ Software Developer
 - 💻 I recently transitioned into tech and I'm a **self-taught developer**.
 - 🚀 I'm currently focused on building responsive web applications using **React** and **Tailwind CSS**.
 - 🎯 My goal is to master **full-stack development**, starting with backend technologies.
-- 🌱 Currently learning: **Node.js**, **Express**,**Python** and **MongoDB**.
+- 🌱 Currently learning: **Node.js**, **Express**,**Flutter** and **MongoDB**.
 
 
 
@@ -80,8 +80,8 @@ Software Developer
         <br />MongoDB
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-        <br />Python
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
+        <br />Dart
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" />

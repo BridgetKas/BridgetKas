@@ -101,21 +101,12 @@ Software Developer
 
 <p align="left"> <a href="https://www.github.com/BridgetKas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/bridget-namugga-3a1b02166" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/namugga.bridgetk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
-
-
-
-
-
 ### 🧩 Most Used Languages
 
-
-
-![Bridget's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BridgetKas&show_icons=true&theme=dark).
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BridgetKas&layout=compact&theme=radical)](https://github.com/BridgetKas/github-readme-stats)
 
 ###  Git Hub Status
-
-
-
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=BridgetKas&show_icons=true&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 ### 🌟 Featured Projects
 

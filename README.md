@@ -107,7 +107,7 @@ Software Developer
 
 
 ### 🧩 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BridgetKas&layout=compact&bg_color=1c1917&title_color=ffffff&text_color=ffffff&border_radius=20)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BridgetKas&layout=compact&bg_color=1c1917&title_color=ffffff&text_color=ffffff&border_radius=20)
 
 
 
